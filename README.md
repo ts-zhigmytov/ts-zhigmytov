@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 Ищу работу junior machine learning scientist/developer
+- 🔭 Ищу работу junior/intern machine learning scientist/developer
 - 🌱 В данный момент: kaggle, coursera, mlcourse, etc.
 - 🤔 Looking for help with ML/Python 
 - 📫 Как мне написать: [github.com/ts-zhigmytov/](https://github.com/ts-zhigmytov/)
