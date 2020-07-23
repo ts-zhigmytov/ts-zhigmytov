@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 ### Био
 - before 2019 - Беззаботная жизнь, радость, веселье
-- since 2019 - ~~Боль и страдания~~ Путь в Machine Learning
+- since 2019 - ~~Боль и страдания~~ Python, data science, machine learning
