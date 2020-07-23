@@ -25,5 +25,5 @@ Here are some ideas to get you started:
  
 
 ### Био
-- before 2019 - Беззаботная жизнь, полная радости и веселья
+- before 2019 - Беззаботная жизнь, радость, веселье
 - since 2019 - ~~Боль и страдания~~ Путь в Machine Learning
