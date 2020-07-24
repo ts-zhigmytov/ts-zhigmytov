@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 Ищу работу junior/intern machine learning scientist/developer
 - 🌱 В данный момент: kaggle, coursera, mlcourse, etc.
-- 🤔 Looking for help with ML/Python 
+- 🤔 Буду благодарен за любые комментарии и консультации по ML/Python 
 - 📫 Как мне написать: [github.com/ts-zhigmytov/](https://github.com/ts-zhigmytov/)
 
 
