@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ### Достижения 
 - кандидат философских наук ([диссер](http://www.bsu.ru/dissers/?did=726))
 - лауреат премии им. Сергея Михалкова ([книга](https://detlit.ru/kvantonavty.-pyatyy-fakultet/))
-- сертификаты: Kaggle [1](https://www.kaggle.com/learn/certification/tsokto/python), 2[https://www.kaggle.com/learn/certification/tsokto/intro-to-machine-learning]; Coursera [1](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC), [2](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC).
+- сертификаты: Kaggle [1](https://www.kaggle.com/learn/certification/tsokto/python), [2](https://www.kaggle.com/learn/certification/tsokto/intro-to-machine-learning); Coursera [1](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC), [2](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC).
  
 
 ### Био
