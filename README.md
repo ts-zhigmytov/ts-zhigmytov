@@ -12,16 +12,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 В данный момент: kaggle, coursera, mlcourse, etc.
 -->
 - 🔭 Ищу работу junior/intern machine learning scientist/developer
-- 🌱 В данный момент: kaggle, coursera, mlcourse, etc.
-- 🤔 Буду благодарен за любые комментарии и консультации по ML/Python 
+- 🤔 Буду благодарен за любые советы, комментарии и консультации по ML и Python 
 - 📫 Как мне написать: [github.com/ts-zhigmytov/](https://github.com/ts-zhigmytov/)
 
 
-### Титулы 
+### Достижения 
 - кандидат философских наук ([диссер](http://www.bsu.ru/dissers/?did=726))
 - лауреат премии им. Сергея Михалкова ([книга](https://detlit.ru/kvantonavty.-pyatyy-fakultet/))
+- сертификаты: Kaggle [1](https://www.kaggle.com/learn/certification/tsokto/python), 2[https://www.kaggle.com/learn/certification/tsokto/intro-to-machine-learning]; Coursera [1](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC), [2](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC).
  
 
 ### Био
