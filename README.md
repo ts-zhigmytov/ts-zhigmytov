@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 В данный момент: kaggle, coursera, mlcourse, etc.
 -->
-- 🔭 Junior/intern machine learning scientist/developer
+- 🔭 Machine learning scientist/developer (шутка, только учусь)
 - 🤔 С удовольствием пообщаюсь на тему ML, Python, SQL, CS, DS, математики
 - ⚡ Могу отредактировать текст, смонтировать звук, разработать стратегию
 - 📫 Написать в telegram: [@tsokto](https://t.me/tsokto)
