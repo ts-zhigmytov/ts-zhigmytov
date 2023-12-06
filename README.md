@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 В данный момент: kaggle, coursera, mlcourse, etc.
 -->
-- 🔭 Data Scientist (junior)
+- 🔭 Data Scientist (junior-to-middle)
 - 🤔 С удовольствием пообщаюсь на темы: ML, Python, SQL, CS, DS, математика, философия, образование, ИИ, развитие
 - 📫 Написать в telegram: [@tsokto](https://t.me/tsokto)
 
@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ### Достижения 
 - кандидат наук ([диссер](http://www.bsu.ru/dissers/?did=726))
 - лауреат премии им. Сергея Михалкова ([книга](https://detlit.ru/kvantonavty.-pyatyy-fakultet/))
-- сертификаты: IBM Coursera [1](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC), [2](https://www.coursera.org/account/accomplishments/records/3RXFEZBSBQQC), [3](https://www.coursera.org/account/accomplishments/records/PM7D86GKEAQE), [4](https://www.coursera.org/account/accomplishments/records/Z9FMDK2ENA4A), [5](https://www.coursera.org/account/accomplishments/records/RRV7274GE6CU), [6](https://www.coursera.org/account/accomplishments/records/U3URF3H8VXWP), [7](https://www.coursera.org/account/accomplishments/verify/YEGD2BGVL29X), [8](https://www.coursera.org/account/accomplishments/verify/SCRSZYLULZL6), [9](https://www.coursera.org/account/accomplishments/verify/J5PTHXY34KN5), [10](https://www.coursera.org/account/accomplishments/verify/TUN7TBQ5DCFV)
  
 
 ### Био
