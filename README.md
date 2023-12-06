@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 
 ### Достижения 
-- кандидат наук ([диссер](http://www.bsu.ru/dissers/?did=726))
+- кандидат философских наук ([диссер](http://www.bsu.ru/dissers/?did=726))
 - лауреат премии им. Сергея Михалкова ([книга](https://detlit.ru/kvantonavty.-pyatyy-fakultet/))
+- альбом (я справа) ([летим 2020](https://music.yandex.ru/album/10410955))
  
 
 ### Био
